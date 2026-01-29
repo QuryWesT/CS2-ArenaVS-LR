@@ -40,4 +40,10 @@ The challenged player must accept the duel by typing:
 ⚙️ Customization
 All major features can be adjusted through configuration files, allowing server owners to tailor the arena system to their server’s needs and playstyle.
 
+Video; 
+
 https://www.youtube.com/watch?v=I-vULOsPl1g
+
+Model;
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3655978004
